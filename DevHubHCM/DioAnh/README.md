@@ -2,9 +2,9 @@
 
 ## 👤 Personal Info
 
-- **Full Name**: Anh Quan
+- **Full Name**: Anh Quan Tran
 - **GitHub**: @DioAnh
-- **Discord**: 
+- **Discord**: @nguyenanh_54641
 - **Telegram**: @0902692685
 - **Sui Wallet**: 0xd5319359f90996a39a7ae3e995c94651059c56f7522392d80711f4caacac15e3
 
