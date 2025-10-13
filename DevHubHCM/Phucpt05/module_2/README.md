@@ -10,11 +10,11 @@
 
 ## 📦 Deployment Info
 
-- **Token Name**: 
-- **Token Symbol**: 
-- **Decimals**: 
-- **Package ID**: `0x...`
-- **TreasuryCap ID**: `0x...`
+- **Token Name**: "Brian Coin"
+- **Token Symbol**: "Brian"
+- **Decimals**: 8
+- **Package ID**: `0x734841070af6e6378fa3a185aeef5517b71009ae3844bad89c16e917000b999c`
+- **TreasuryCap ID**: `0x71c53ea7581e6a5e357e7477c2abc989ef80067462338eaf10bb546f93279529`
 
 ## 🔗 Transactions
 
@@ -29,4 +29,4 @@ Add your code to:
 ## 📅 Completion
 
 - **Submission Date**: 
-- **Status**: ⏳ Not Started / 🚧 In Progress / ✅ Completed
+- **Status**: ✅ Completed
