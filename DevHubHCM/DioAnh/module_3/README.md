@@ -13,11 +13,11 @@
 
 ## 📦 Deployment Info
 
-- **Token A**: (your token name)
-- **Token B**: (pair token name)
+- **Token A**: vietnamdong
+- **Token B**: saigontoken
 - **Package ID**: `0x...`
 - **Pool ID**: `0x...`
-- **Exchange Rate**: 1 TOKEN_A = ??? TOKEN_B
+- **Exchange Rate**: 1 TOKEN_A = 1200 TOKEN_B
 
 ## 🔗 Transactions
 
