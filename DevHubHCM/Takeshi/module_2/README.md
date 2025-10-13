@@ -10,16 +10,16 @@
 
 ## 📦 Deployment Info
 
-- **Token Name**: 
-- **Token Symbol**: 
-- **Decimals**: 
-- **Package ID**: `0x...`
-- **TreasuryCap ID**: `0x...`
+- **Token Name**: gSUI 
+- **Token Symbol**: gSUI
+- **Decimals**: 9
+- **Package ID**: `0x4a35803cf80893165de643e11b0640ca5443a16bac4ace25ce152ad38ec928a2`
+- **TreasuryCap ID**: `0xa30afec72c9e582e1020c6441eeea3c8ec5986499ac6f8be88a29a0381c5851e`
 
 ## 🔗 Transactions
 
 - **Deploy TX**: https://suiexplorer.com/txblock/...?network=testnet
-- **Mint TX**: https://suiexplorer.com/txblock/...?network=testnet
+- **Mint TX**: https://testnet.suivision.xyz/package/0x4a35803cf80893165de643e11b0640ca5443a16bac4ace25ce152ad38ec928a2?tab=Code
 
 ## 📂 Files
 
@@ -28,5 +28,5 @@ Add your code to:
 
 ## 📅 Completion
 
-- **Submission Date**: 
+- **Submission Date**: 13/10/2025
 - **Status**: ⏳ Not Started / 🚧 In Progress / ✅ Completed
