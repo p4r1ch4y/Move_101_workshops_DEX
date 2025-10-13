@@ -1,6 +1,6 @@
 # Participant Information
 
-## 👤 Personal Info xx
+## 👤 Personal Info
 
 - **Full Name**: 
 - **GitHub**: @
