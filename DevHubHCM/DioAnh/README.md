@@ -2,11 +2,11 @@
 
 ## 👤 Personal Info
 
-- **Full Name**:
-- **GitHub**: @
-- **Discord**:
-- **Telegram**: @
-- **Sui Wallet**: 0x...
+- **Full Name**: Anh Quan Tran
+- **GitHub**: @DioAnh
+- **Discord**: @nguyenanh_54641
+- **Telegram**: @0902692685
+- **Sui Wallet**: 0xd5319359f90996a39a7ae3e995c94651059c56f7522392d80711f4caacac15e3
 
 ## 📊 Progress
 
@@ -18,9 +18,9 @@
 
 ## 🏆 Final Result
 
-- **Live URL**:
+- **Live URL**: 
 - **Mainnet Package**: `0x...`
-- **Demo Video**:
+- **Demo Video**: 
 
 ---
 
