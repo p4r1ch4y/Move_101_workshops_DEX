@@ -33,7 +33,7 @@ public fun mint(
 }
 
 entry fun mint_token(treasury_cap: &mut TreasuryCap<BRIAN_COIN>, ctx: &mut TxContext) {
-    let coin_object = coin::mint(treasury_cap, 1_000_000_000_000_000, ctx);
+    let coin_object = coin::mint(treasury_cap, 100000, ctx);
     transfer::public_transfer(coin_object, ctx.sender())
 }
 /// Burn the given coin and return the burned amount.
