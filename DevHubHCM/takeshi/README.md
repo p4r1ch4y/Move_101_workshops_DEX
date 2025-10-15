@@ -2,7 +2,7 @@
 
 ## 👤 Personal Info
 
-- **Full Name**: david tran khanh 
+- **Full Name**: david tran khanh. 
 - **GitHub**: @thelocal69
 - **Discord**: deer66_90074
 - **Telegram**: @CircleDeer66
