@@ -2,16 +2,16 @@
 
 ## 👤 Personal Info
 
-- **Full Name**: 
-- **GitHub**: @
-- **Discord**: 
-- **Telegram**: @
-- **Sui Wallet**: `0x...`
+- **Full Name**: david tran khanh 
+- **GitHub**: @thelocal69
+- **Discord**: deer66_90074
+- **Telegram**: @CircleDeer66
+- **Sui Wallet**: `0xa2a3db9eae6e45c2bf0e8de48874c3174cb332430d5567c4c56d356f5fb17450`
 
 ## 📊 Progress
 
-- [ ] Module 1: Explore Frontend
-- [ ] Module 2: Create Token
+- [ ok ] Module 1: Explore Frontend
+- [ ok ] Module 2: Create Token
 - [ ] Module 3: Swap Contract
 - [ ] Module 4: Connect Frontend
 - [ ] Module 5: Deploy to Production
