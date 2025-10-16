@@ -15,7 +15,10 @@
 
 - **Token A**: (your token name)
 - **Token B**: (pair token name)
-- **Package ID**: `0x...`
+- **TreasuryCap ID A**: 
+- **TreasuryCap ID B**: 
+- **Package ID A**: `0x...`
+- **Package ID B**: `0x...`
 - **Pool ID**: `0x...`
 - **Exchange Rate**: 1 TOKEN_A = ??? TOKEN_B
 

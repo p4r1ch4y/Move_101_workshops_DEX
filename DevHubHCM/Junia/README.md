@@ -2,15 +2,15 @@
 
 ## 👤 Personal Info
 
-- **Full Name**: 
-- **GitHub**: @
+- **Full Name**: Tran Van Dinh
+- **GitHub**: @trandinh0506
 - **Discord**: 
-- **Telegram**: @
-- **Sui Wallet**: `0x...`
+- **Telegram**: @JuniaTran
+- **Sui Wallet**: `0x15c2e67a90c2da4901b36273c54eb454b16c221c2fff7d26a121c1723fe70f87`
 
 ## 📊 Progress
 
-- [ ] Module 1: Explore Frontend
+- [x] Module 1: Explore Frontend
 - [ ] Module 2: Create Token
 - [ ] Module 3: Swap Contract
 - [ ] Module 4: Connect Frontend
@@ -24,5 +24,5 @@
 
 ---
 
-**Start Date**: YYYY-MM-DD  
+**Start Date**: 2025-10-11
 **Completion Date**: YYYY-MM-DD
