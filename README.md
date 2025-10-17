@@ -2,7 +2,7 @@
 
 A hands-on workshop series for building a complete DEX (Decentralized Exchange) on Sui blockchain using Move language and Next.js frontend.
 
-🌐 **Live Demo**: [move-101-workshops.vercel.app](#)
+🌐 **Live Demo**: [move-101-workshops.vercel.app](https://move-101-workshops.vercel.app/)
 
 ## 📂 Repository Structure
 
